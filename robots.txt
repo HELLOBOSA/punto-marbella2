@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://marbella.puntoreforma.es/sitemap.xml
